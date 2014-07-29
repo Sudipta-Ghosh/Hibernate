@@ -1,0 +1,82 @@
+2014-07-30 00:54:04,097 [Worker-10] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2014-07-30 00:54:08,775 [Worker-10] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:54:12,987 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tutorial.hibernate:SaveinUserDetails:0.0.1-SNAPSHOT @ D:\ECLIPSEWORKSPACE\Framework\HIBERNATEWORKSPACE\Hibernate\HibernateBulkInsertion\pom.xml.
+2014-07-30 00:54:13,071 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:54:15,224 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/com/oracle/ojdbc6/11.2.0/ojdbc6-11.2.0.pom
+2014-07-30 00:54:15,251 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:54:17,756 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/oracle/ojdbc6/11.2.0/ojdbc6-11.2.0.pom
+2014-07-30 00:54:17,769 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2014-07-30 00:54:17,775 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tutorial.hibernate:SaveinUserDetails:0.0.1-SNAPSHOT @ D:\ECLIPSEWORKSPACE\Framework\HIBERNATEWORKSPACE\Hibernate\HibernateBulkInsertion\pom.xml.
+2014-07-30 00:54:17,777 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:54:17,787 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2014-07-30 00:54:17,795 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:54:21,107 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/hibernate/hibernate-core/3.6.3.Final/hibernate-core-3.6.3.Final.pom
+2014-07-30 00:54:21,214 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/hibernate/hibernate-core/3.6.3.Final/hibernate-core-3.6.3.Final.pom
+2014-07-30 00:54:21,394 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/hibernate/hibernate-core/3.6.3.Final/hibernate-core-3.6.3.Final.pom
+2014-07-30 00:54:21,963 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/hibernate/hibernate-core/3.6.3.Final/hibernate-core-3.6.3.Final.pom
+2014-07-30 00:54:26,939 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:54:26,942 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:54:34,652 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/hibernate/hibernate-parent/3.6.3.Final/hibernate-parent-3.6.3.Final.pom
+2014-07-30 00:54:34,670 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/hibernate/hibernate-parent/3.6.3.Final/hibernate-parent-3.6.3.Final.pom
+2014-07-30 00:55:49,839 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/hibernate/hibernate-parent/3.6.3.Final/hibernate-parent-3.6.3.Final.pom
+2014-07-30 00:55:49,907 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/hibernate/hibernate-parent/3.6.3.Final/hibernate-parent-3.6.3.Final.pom
+2014-07-30 00:56:00,536 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:56:00,748 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:56:33,495 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/antlr/antlr/2.7.6/antlr-2.7.6.pom
+2014-07-30 00:56:33,507 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:56:34,358 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/antlr/antlr/2.7.6/antlr-2.7.6.pom
+2014-07-30 00:56:34,372 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:56:54,986 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/antlr/antlr/2.7.6/antlr-2.7.6.pom
+2014-07-30 00:56:54,988 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/antlr/antlr/2.7.6/antlr-2.7.6.pom
+2014-07-30 00:56:55,233 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/antlr/antlr/2.7.6/antlr-2.7.6.pom
+2014-07-30 00:56:55,235 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/antlr/antlr/2.7.6/antlr-2.7.6.pom
+2014-07-30 00:57:00,609 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:57:00,722 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:57:24,900 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/commons-collections/commons-collections/3.1/commons-collections-3.1.pom
+2014-07-30 00:57:24,917 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:57:27,679 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/commons-collections/commons-collections/3.1/commons-collections-3.1.pom
+2014-07-30 00:57:27,700 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:57:42,548 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.1/commons-collections-3.1.pom
+2014-07-30 00:57:42,551 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.1/commons-collections-3.1.pom
+2014-07-30 00:57:43,094 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.1/commons-collections-3.1.pom
+2014-07-30 00:57:43,096 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.1/commons-collections-3.1.pom
+2014-07-30 00:57:45,925 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:57:46,172 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:57:52,846 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/hibernate/hibernate-commons-annotations/3.2.0.Final/hibernate-commons-annotations-3.2.0.Final.pom
+2014-07-30 00:57:52,849 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/hibernate/hibernate-commons-annotations/3.2.0.Final/hibernate-commons-annotations-3.2.0.Final.pom
+2014-07-30 00:57:57,603 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:58:02,364 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/hibernate/hibernate-commons-annotations/3.2.0.Final/hibernate-commons-annotations-3.2.0.Final.pom
+2014-07-30 00:58:02,367 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/hibernate/hibernate-commons-annotations/3.2.0.Final/hibernate-commons-annotations-3.2.0.Final.pom
+2014-07-30 00:58:04,041 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:58:19,884 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/slf4j/slf4j-api/1.5.8/slf4j-api-1.5.8.pom
+2014-07-30 00:58:19,897 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:58:27,222 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/slf4j/slf4j-api/1.5.8/slf4j-api-1.5.8.pom
+2014-07-30 00:58:27,233 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:58:31,582 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.8/slf4j-api-1.5.8.pom
+2014-07-30 00:58:31,641 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.8/slf4j-api-1.5.8.pom
+2014-07-30 00:58:35,807 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.8/slf4j-api-1.5.8.pom
+2014-07-30 00:58:35,810 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.8/slf4j-api-1.5.8.pom
+2014-07-30 00:58:36,256 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:58:39,982 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:58:55,536 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/slf4j/slf4j-parent/1.5.8/slf4j-parent-1.5.8.pom
+2014-07-30 00:58:55,547 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:59:00,784 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/slf4j/slf4j-parent/1.5.8/slf4j-parent-1.5.8.pom
+2014-07-30 00:59:00,793 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:59:09,149 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.8/slf4j-parent-1.5.8.pom
+2014-07-30 00:59:09,151 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.8/slf4j-parent-1.5.8.pom
+2014-07-30 00:59:09,660 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.8/slf4j-parent-1.5.8.pom
+2014-07-30 00:59:09,662 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.8/slf4j-parent-1.5.8.pom
+2014-07-30 00:59:13,451 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:59:13,698 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:59:40,685 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final.pom
+2014-07-30 00:59:40,697 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final.pom
+2014-07-30 00:59:40,857 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final.pom
+2014-07-30 00:59:40,859 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final.pom
+2014-07-30 00:59:48,949 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 00:59:49,390 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 01:00:05,261 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/javax/transaction/jta/1.1/jta-1.1.pom
+2014-07-30 01:00:05,270 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/javax/transaction/jta/1.1/jta-1.1.pom
+2014-07-30 01:00:05,989 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/javax/transaction/jta/1.1/jta-1.1.pom
+2014-07-30 01:00:05,991 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/javax/transaction/jta/1.1/jta-1.1.pom
+2014-07-30 01:01:00,637 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-07-30 01:01:00,826 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
