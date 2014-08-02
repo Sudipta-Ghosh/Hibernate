@@ -13,7 +13,7 @@ import com.java.hibernate.dto.Student;
 
 
  
-public class ClientForSave { 
+public class ClientForPagination { 
  
     @SuppressWarnings("unchecked")
     public static void main(String[] args)
